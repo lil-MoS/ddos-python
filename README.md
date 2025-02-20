@@ -10,6 +10,8 @@ ddos.py آپلود کنید روی سرور و دستور `python ddos.py` رو 
 
 
 target_ip = "85.17.65.177"  # Replace with the target IP address
+
+
 packets_per_second = 1000  # Adjust the packets per second rate as needed
 
 
