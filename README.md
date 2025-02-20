@@ -1,5 +1,8 @@
 # ddos-python
 ddos attack by python
+
+![image](https://github.com/user-attachments/assets/be3f6855-dacc-49e1-977b-8d5d08fcd11c)
+
 - - -
 ddos.py آپلود کنید روی سرور و دستور `python ddos.py` رو در ترمیناب بزنید
 
